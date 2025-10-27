@@ -1,7 +1,4 @@
 # Animal Image Classification using CNN
-
-For our module 4 project, my partner [Vicente](https://github.com/vaeb80) and I wanted to create an image classifier using deep learning. 
-
 ### Purpose:
 
 Classify species of animals based on pictures. Can automatically help identify animals in the wild taken by wildlife conservatories. Can lead to discoveries of potential new habitat as well as new unseen species of animals within the same class.
